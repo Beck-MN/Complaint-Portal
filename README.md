@@ -1,6 +1,10 @@
-# Jane's Daily Portal
+# Complaint Portal
 
-A simple web application where Jane can submit her daily thoughts and complaints, and they can be viewed later.
+A web application for submitting and tracking complaints efficiently. This platform provides an intuitive interface for users to submit, manage, and track the status of their complaints.
+
+## Access the Site
+
+Visit [janehasacomplaint.com](https://janehasacomplaint.com) to access the complaint portal.
 
 ## Features
 - Simple form to submit daily entries
