@@ -1,7 +1,7 @@
 {
-  "name": "janes-portal-server",
+  "name": "complaint-portal-server",
   "version": "1.0.0",
-  "description": "Backend for Jane's thoughts portal",
+  "description": "Backend for Complaint Portal",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
