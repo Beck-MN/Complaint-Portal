@@ -1,15 +1,44 @@
-# Complaint Portal
+# Jane's Thought Portal ❤️
 
-A web application for submitting and tracking complaints efficiently. This platform provides an intuitive interface for users to submit, manage, and track the status of their complaints.
+A heartfelt web application where you can share your thoughts and feelings. Express yourself with emojis and connect through emotions!
 
-## Access the Site
+## 🌟 Features
 
-Visit [janehasacomplaint.com](https://janehasacomplaint.com) to access the complaint portal.
+- **Share Your Thoughts**: Create and share your thoughts with titles and descriptions
+- **Express Your Mood**: Choose from a variety of mood emojis to express how you're feeling
+  - 😊 Happy
+  - 😢 Sad
+  - 😡 Angry
+  - 😌 Calm
+  - 🤔 Thoughtful
+  - 😰 Anxious
+  - 🥱 Tired
+  - 🤩 Excited
+  - 🤑 Middle Class
 
-## Features
-- Simple form to submit daily entries
-- View all previous entries
-- Clean and user-friendly interface
+- **Severity Levels**: Mark your thoughts with different severity levels
+  - 😌 Low Priority
+  - 😟 Medium Priority
+  - 😡 High Priority
+
+## 📱 Access the Application
+
+The application is live and accessible at:
+
+- **Website**: [janehasacomplaint.com](https://janehasacomplaint.com)
+
+## 💝 Using the Portal
+
+1. Visit the website
+2. Share your thoughts by filling out the form:
+   - Add a title
+   - Select your current mood
+   - Choose a severity level
+   - Write your thought description
+3. Click "Share 💝" to post your thought
+4. View all shared thoughts in the "Previous Thoughts 📝" section
+
+Your thoughts are saved securely and displayed with your chosen mood and severity level emojis.
 
 ## Setup Requirements
 1. Install Node.js from https://nodejs.org/ (LTS version recommended)
