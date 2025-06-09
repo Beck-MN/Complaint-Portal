@@ -24,7 +24,7 @@ const ComplaintSchema = new mongoose.Schema({
     },
     mood: {
         type: String,
-        required: [true, 'Please specify a mood'],
+        default: '😊 Happy',
         trim: true
     },
     createdAt: {
