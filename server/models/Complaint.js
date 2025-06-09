@@ -22,6 +22,11 @@ const ComplaintSchema = new mongoose.Schema({
         enum: ['low', 'medium', 'high'],
         default: 'low'
     },
+    mood: {
+        type: String,
+        required: [true, 'Please specify a mood'],
+        trim: true
+    },
     createdAt: {
         type: Date,
         default: Date.now
